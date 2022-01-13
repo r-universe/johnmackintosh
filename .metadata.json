@@ -1,0 +1,28 @@
+[
+  {
+    "package": "runcharter",
+    "oncran": true
+  },
+  {
+    "package": "cusumcharter",
+    "oncran": true
+  },
+  {
+    "package": "rockthemes"
+  },
+  {
+    "package": "spccharter"
+  },
+  {
+    "package": "juncture"
+  },
+  {
+    "package": "patientcounter"
+  },
+  {
+    "package": "popthemes"
+  },
+  {
+    "package": "metallicaRt"
+  }
+]
