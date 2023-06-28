@@ -1,45 +1,28 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/johnmackintosh/universe
-	shallow = true
 	branch = HEAD
 [submodule "runcharter"]
 	path = runcharter
 	url = https://github.com/johnmackintosh/runcharter
-	shallow = true
-	registered = true
 [submodule "cusumcharter"]
 	path = cusumcharter
 	url = https://github.com/johnmackintosh/cusumcharter
-	shallow = true
-	registered = true
 [submodule "rockthemes"]
 	path = rockthemes
 	url = https://github.com/johnmackintosh/rockthemes
-	shallow = true
-	registered = true
 [submodule "spccharter"]
 	path = spccharter
 	url = https://github.com/johnmackintosh/spccharter
-	shallow = true
-	registered = true
 [submodule "juncture"]
 	path = juncture
 	url = https://github.com/johnmackintosh/juncture
-	shallow = true
-	registered = true
 [submodule "patientcounter"]
 	path = patientcounter
 	url = https://github.com/johnmackintosh/patientcounter
-	shallow = true
-	registered = true
 [submodule "popthemes"]
 	path = popthemes
 	url = https://github.com/johnmackintosh/popthemes
-	shallow = true
-	registered = true
 [submodule "metallicaRt"]
 	path = metallicaRt
 	url = https://github.com/johnmackintosh/metallicart
-	shallow = true
-	registered = true
