@@ -2,27 +2,27 @@
 	path = .registry
 	url = https://github.com/johnmackintosh/universe
 	branch = HEAD
-[submodule "runcharter"]
-	path = runcharter
-	url = https://github.com/johnmackintosh/runcharter
 [submodule "cusumcharter"]
 	path = cusumcharter
 	url = https://github.com/johnmackintosh/cusumcharter
-[submodule "rockthemes"]
-	path = rockthemes
-	url = https://github.com/johnmackintosh/rockthemes
-[submodule "spccharter"]
-	path = spccharter
-	url = https://github.com/johnmackintosh/spccharter
 [submodule "juncture"]
 	path = juncture
 	url = https://github.com/johnmackintosh/juncture
+[submodule "metallicaRt"]
+	path = metallicaRt
+	url = https://github.com/johnmackintosh/metallicart
 [submodule "patientcounter"]
 	path = patientcounter
 	url = https://github.com/johnmackintosh/patientcounter
 [submodule "popthemes"]
 	path = popthemes
 	url = https://github.com/johnmackintosh/popthemes
-[submodule "metallicaRt"]
-	path = metallicaRt
-	url = https://github.com/johnmackintosh/metallicart
+[submodule "rockthemes"]
+	path = rockthemes
+	url = https://github.com/johnmackintosh/rockthemes
+[submodule "runcharter"]
+	path = runcharter
+	url = https://github.com/johnmackintosh/runcharter
+[submodule "spccharter"]
+	path = spccharter
+	url = https://github.com/johnmackintosh/spccharter
