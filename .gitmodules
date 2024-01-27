@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/johnmackintosh/universe
+	url = https://github.com/johnmackintosh/johnmackintosh.r-universe.dev
 	branch = HEAD
 [submodule "cusumcharter"]
 	path = cusumcharter
